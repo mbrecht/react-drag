@@ -1,0 +1,22 @@
+{
+  "name": "react-drag",
+  "version": "1.0.0",
+  "description": "A React wrapper to make drag and drop components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "drag and drop"
+  ],
+  "author": "Michael Brecht <brecht.michael.b@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbrecht/react-drag/issues"
+  },
+  "homepage": "https://github.com/mbrecht/react-drag#readme",
+  "devDependencies": {
+    "react": "^17.0.2"
+  }
+}
